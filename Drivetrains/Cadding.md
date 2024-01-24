@@ -12,4 +12,4 @@
 ### 3. Inserting Pieces
 - Start by going to the assemblies tab at the bottom of your document
   
--![unnamed](https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/0b2c87cd-b079-4747-be71-e196e4015cf7)
+- ![unnamed](https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/0b2c87cd-b079-4747-be71-e196e4015cf7)
