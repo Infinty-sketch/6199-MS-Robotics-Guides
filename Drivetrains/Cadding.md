@@ -5,7 +5,7 @@
 ### Log in to CAD software
 - This is a very important step as enpeng couldn't do this.
 - I also dont know how you do this
-> [!TIP]
+- > [!TIP]
 > Use westminster.onshape.com
 
 ### Plan your wheel, motor, and gear layout
