@@ -12,5 +12,7 @@
 ### 3. Inserting Pieces
 - Start by going to the assemblies tab at the bottom of your document
 <img width="598" alt="Screenshot 2024-01-24 at 3 57 47 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/0b7c585b-b780-4198-8984-877fa654502c">
+
 - Click on the insert button.
+  
 <img width="598" alt="Screenshot 2024-01-24 at 3 58 53 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/741c6441-e992-4f29-bfe4-25b8a6ff71de">
