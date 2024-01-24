@@ -3,8 +3,8 @@
 > [!IMPORTANT]
 > ### Read [Description](Description.md) to understand how a drivetrain works
 ## Table of Contents:
-[Logging In]([https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Drivetrains/Cadding.md#4-rotating-and-transforming-pieces](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Drivetrains/Cadding.md#1-log-in-to-cad-software)
-[Planning]([https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Drivetrains/Cadding.md#2-plan](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Drivetrains/Cadding.md#2-plan-your-wheel-motor-and-gear-layout)
+[Logging In](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Drivetrains/Cadding.md#1-log-in-to-cad-software)
+[Planning](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Drivetrains/Cadding.md#2-plan-your-wheel-motor-and-gear-layout)
 [Inserting](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Drivetrains/Cadding.md#3-inserting-pieces)
 [Moving](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Drivetrains/Cadding.md#4-rotating-and-transforming-pieces)
 [Fastening](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Drivetrains/Cadding.md#5-fastening-two-pieces)
