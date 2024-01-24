@@ -7,7 +7,7 @@ If you have any questions/further issues: You can contact one of us Enpeng Jiang
 [Step by Step Video Tutorial to CAD a Drivetrain](https://drive.google.com/file/d/15YNamQJwriS7e753XB4Z8V8ZBt-ll3Hs/view?usp=sharing)
 # Table of Contents:
 ## Planning
-[Cading](Resources/Cadding.md)
+[Cadding](Resources/Cadding.md)
 ## Robot Systems
 [Drivetrains](Drivetrains)
 
