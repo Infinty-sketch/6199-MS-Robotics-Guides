@@ -9,4 +9,6 @@
 - I also dont know how you do this
 ### 2. Plan your wheel, motor, and gear layout
 - Using real C-channels, axles, gears, etc, play around with the axles insert into the channel, where gears connect, and how much space is needed between axles, and wheels.
+### 3. Inserting Pieces
+- Start by going to the assemblies tab at the bottom of your document
 
