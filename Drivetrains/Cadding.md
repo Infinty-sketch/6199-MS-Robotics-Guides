@@ -1,5 +1,5 @@
 # Basic CAD Steps
-## [Cadding Video](https://drive.google.com/drive/u/0/search?q=owner:enpengjiang%40westminster.net)
+## [Step by Step Tutorial to CAD a drivetrain](https://drive.google.com/drive/u/0/search?q=owner:enpengjiang%40westminster.net)
 > [!IMPORTANT]
 > ### Read [Description](Description.md) to understand how a drivetrain works
 ### 1. Log in to CAD software
