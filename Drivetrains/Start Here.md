@@ -1,5 +1,5 @@
 # Drivetrains: A Must Build - see Troubleshooting for issues 
-### Basic CAD Steps, Building Steps
+### [Basic CAD Steps](Drivetrains/Cadding.md), [Building Steps](Drivetrains/Building.md)
 ## State your intentions (what do you need to do for this years game)
 Your team should plan what the goal of the robot is and how the design should complement and make the goal possible. Think about supports (which type, layout (top/bottom), parts/components), motors (green/blue), gear ratios (gear down/gear up)
 If you don’t know how to do this. Read the detailed overview of drivetrains. Overview
