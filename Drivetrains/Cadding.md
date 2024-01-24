@@ -1,6 +1,5 @@
 # Basic CAD Steps
-> [!IMPORTANT]
-> ## [VIDEO](https://drive.google.com/drive/u/0/search?q=owner:enpengjiang%40westminster.net)
+## [Cadding VIDEO](https://drive.google.com/drive/u/0/search?q=owner:enpengjiang%40westminster.net)
 > [!IMPORTANT]
 > ### Read [Description](Description.md) to understand how a drivetrain works
 ### Log in to CAD software
