@@ -1,7 +1,5 @@
 # Basic CAD Steps
 ## [Step by Step Video Tutorial to CAD a drivetrain](https://drive.google.com/drive/u/0/search?q=owner:enpengjiang%40westminster.net)
-> [!IMPORTANT]
-> ### Read [Description](Description.md) to understand how a drivetrain works
 ## Table of Contents:
 [Log In](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Drivetrains/Cadding.md#1-log-in-to-cad-software)
 [Planning](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Drivetrains/Cadding.md#2-plan-your-wheel-motor-and-gear-layout)
