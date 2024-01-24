@@ -23,5 +23,16 @@
 - Press the green check mark
 - <img width="598" alt="Screenshot 2024-01-24 at 4 01 01 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/8fa45a06-a5b0-4530-a34f-3a16c4f1d712">
 - Done!!
+### 4. Rotating and Transforming Pieces
+- Click on the part you want to move. (Note: grouped or fastned parts move together.)
+- <img width="598" alt="Screenshot 2024-01-24 at 4 02 20 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/03cb30d2-1d75-4e73-b7de-1ceaebc30e05">
+- Select the circles with lines to rotate or arrows to move the piece.
+  - Enter an angle
+  - <img width="598" alt="Screenshot 2024-01-24 at 4 02 49 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/d9d55fbd-856c-46b2-8afd-4e3bc0932061">
+  - Enter a distance
+  - <img width="598" alt="Screenshot 2024-01-24 at 4 03 05 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/05c94ec9-fcb6-4b47-b32c-ef0cc9979aeb">
+
+
+
   
 
