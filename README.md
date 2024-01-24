@@ -9,7 +9,9 @@ If you have any questions/further issues: You can contact one of us Enpeng Jiang
 ## Planning
 [Cading](Resources/Cadding.md)
 ## Robot Systems
-Drivetrains: A Must Build 
+[Drivetrains](Drivetrains)
+  -[Start Here](Drivetrains/StartHere.md)
+  -[Building](Drivetrains/Building.md)
 
 Four Bars
 
