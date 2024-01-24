@@ -1,8 +1,8 @@
 # Basic CAD Steps
+[link](### 3. Inserting Pieces)
 ## [Step by Step Tutorial to CAD a drivetrain](https://drive.google.com/drive/u/0/search?q=owner:enpengjiang%40westminster.net)
 > [!IMPORTANT]
 > ### Read [Description](Description.md) to understand how a drivetrain works
-> [Link](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Drivetrains/Cadding.md#1-log-in-to-cad-software?plain=1#L26)
 ### 1. Log in to CAD software
 > [!TIP]
 > Use westminster.onshape.com
