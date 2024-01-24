@@ -31,6 +31,30 @@
   - <img width="598" alt="Screenshot 2024-01-24 at 4 02 49 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/d9d55fbd-856c-46b2-8afd-4e3bc0932061">
   - Enter a distance
   - <img width="598" alt="Screenshot 2024-01-24 at 4 03 05 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/05c94ec9-fcb6-4b47-b32c-ef0cc9979aeb">
+  - You can also use the squares to move the piece around freely with your cursor.
+  - <img width="602" alt="Screenshot 2024-01-24 at 4 05 38 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/5032f714-f382-407c-91d3-1b715af39c35">
+### 5. Fastening Two Pieces
+- After inserting at least two pieces, select the fasten tool to fasten them.
+- <img width="602" alt="Screenshot 2024-01-24 at 4 05 59 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/1936dfd5-db8f-4927-997e-2abb5014c893">
+- Move your cursor over the piece you want to move. When the white circles appear, hold the shift key.
+- <img width="602" alt="Screenshot 2024-01-24 at 4 06 12 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/9d6f6612-6a6c-411f-9766-61fd4be2e1b6">
+- Select the circle on the point you want to move. (This point will be what fastens (moves to) to your other fasten point)
+- <img width="602" alt="Screenshot 2024-01-24 at 4 06 42 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/32ad7442-14df-45df-aeac-658658e5c439">
+- Move your cursor over the piece you want the part to move to. Again hold shift and select a point.
+- <img width="602" alt="Screenshot 2024-01-24 at 4 07 00 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/b14a9266-461d-4e7a-881b-82b525a0dd49">
+- Now that the part has moved (hopefully) a menu will appear with options. The most important tool in this menu is the Flip Primary Axis tool. Use this tool if the part is facing the wrong direction.
+- <img width="602" alt="Screenshot 2024-01-24 at 4 07 28 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/b53c7d37-df86-4ab1-a1ef-933a8845cb6b">
+- <img width="602" alt="Screenshot 2024-01-24 at 4 07 38 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/4055d482-d63a-4ebb-a18d-eb0f853b2987">
+- <img width="602" alt="Screenshot 2024-01-24 at 4 07 48 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/ced0db9e-e873-4a39-9ea3-0c2b08322068">
+- Press the green check mark
+- <img width="602" alt="Screenshot 2024-01-24 at 4 08 01 PM" src="https://github.com/Arcx23/MS-Robotics-Guide/assets/132633896/a5ef7576-6939-40b4-9783-e03748110290">
+
+
+
+
+
+
+
 
 
 
