@@ -1,5 +1,5 @@
 # Basic CAD Steps
-## [VIDEO](https://drive.google.com/drive/u/0/search?q=owner:enpengjiang%40westminster.net)
+## [VIDEO (Requires Being Logged In To Westminster Account](https://drive.google.com/drive/u/0/search?q=owner:enpengjiang%40westminster.net)
 > [!IMPORTANT]
 > ### Read [Description](Description.md) to understand how a drivetrain works
 ### Log in to CAD software
