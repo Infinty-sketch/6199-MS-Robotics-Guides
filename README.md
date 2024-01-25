@@ -10,6 +10,8 @@ If you have any questions/further issues: You can contact one of us Enpeng Jiang
     - Within each larger folder is indivual sub folders that contain text files relating to the topic
     - If you don't know what you are looking for start by reading the "README.md" file
 3. You can find some video tutorials below
+# Videos:
+-[Step by Step Cadding a Simple Drivetrain](https://drive.google.com/file/d/15YNamQJwriS7e753XB4Z8V8ZBt-ll3Hs/view?usp=sharing)
 # Table of Contents:
 - ## Planning
   - [Cading](Planning/Cadding.md)
