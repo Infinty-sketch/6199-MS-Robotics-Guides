@@ -1,4 +1,5 @@
-- [x] Record Videos
+- [x] Record CAD Video
+  - [ ] Edit Building Video
 - [ ] Format Github
 - [ ] Drivetrain Building Steps
 - [ ] Finish...
