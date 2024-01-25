@@ -10,7 +10,7 @@ If you have any questions/further issues: You can contact one of us Enpeng Jiang
   - [Cadding](Resources/Cadding.md)
 - ## Robot Systems
   - [Drivetrains](Drivetrains)
-    - [Start Here](Drivetrains/Start_Here.md)
+    - [Start Here](Drivetrains/README.md)
     - [Building](Drivetrains/Building.md)
   - Four Bars
   - Intakes — Robot Systems
