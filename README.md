@@ -17,3 +17,4 @@ Pneumatic Uses
 
 ## Troubleshooting
 
+<img src="https://github.com/Arcx23/6199-MS-Robotics-Guide/assets/132633896/ac831e1d-33a9-451d-82f2-f205641a7301" width="300" height="400">
