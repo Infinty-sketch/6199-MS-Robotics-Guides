@@ -22,6 +22,7 @@ I hope this is obvious but c channels should be the only thing used on a drivetr
 
 ### Motors, Wheel Size, and Gear Ratio (Materials+Detailed):
 Refer to [Calculations](https://github.com/Arcx23/6199-MS-Robotics-Guide/blob/main/Building/Drivetrains/Overview.md#calculations): after reading
+
 Motors should not be picked at random. For drive trains, only blue or green motors    can be used, and pretend red motors do not exist. Green motors rotate slower, but exert significantly more torque and blue motors spin much faster but the trade off is that they exert much less torque and often burn out very quickly. 
 
 Wheel size is a pretty simple decision, you have between 4", 3.25", and 2.75" wheels. You should almost always be using Omni Wheels, flex wheels to lock the base in place works, but is not always a necessity for every year’s game.
