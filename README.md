@@ -1,4 +1,4 @@
-# MS-Robotics-Guide
+# Team 6199 Resources and Guide
 ## Building Resources (Brayden & Enpeng):
 We have put together this guide to assist with designing or building simple and more complex mechanisms that are useful in most builds. This guide was designed with the intent of detailing simple systems and also offering a brief overview of more complex systems, and potential uses on your robots. 
 ### NOTE: this is not a definitive list and you will still have to design your own systems
