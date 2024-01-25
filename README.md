@@ -16,3 +16,4 @@ Intakes — Robot Systems
 Pneumatic Uses
 
 ## Troubleshooting
+![unnamed (1)](https://github.com/Arcx23/6199-MS-Robotics-Guide/assets/132633896/0076d381-6f93-4d56-ac53-6d62786a061c)
