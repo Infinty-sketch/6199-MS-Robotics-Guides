@@ -2,11 +2,11 @@
 >[!NOTE]
 > If you need help cadding a drivetrain: [Step by Step Video Tutorial to CAD a drivetrain](https://drive.google.com/file/d/15YNamQJwriS7e753XB4Z8V8ZBt-ll3Hs/view?usp=sharing)
 ## Table of Contents:
-[Log In](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Drivetrains/Cadding.md#1-log-in-to-cad-software)
-[Planning](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Drivetrains/Cadding.md#2-plan-your-wheel-motor-and-gear-layout)
-[Inserting](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Drivetrains/Cadding.md#3-inserting-pieces)
-[Moving](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Drivetrains/Cadding.md#4-rotating-and-transforming-pieces)
-[Fastening](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Drivetrains/Cadding.md#5-fastening-two-pieces)
+[Log In](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Planning/Cadding.md#1-log-in-to-cad-software)
+[Planning](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Planning/Cadding.md#2-plan-your-wheel-motor-and-gear-layout)
+[Inserting](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Planning/Cadding.md#3-inserting-pieces)
+[Moving](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Planning/Cadding.md#4-rotating-and-transforming-pieces)
+[Fastening](https://github.com/Arcx23/MS-Robotics-Guide/blob/main/Planning/Cadding.md#5-fastening-two-pieces)
 ### 1. Log in to CAD software
 > [!TIP]
 > Use westminster.onshape.com
