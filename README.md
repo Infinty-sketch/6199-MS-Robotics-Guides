@@ -6,18 +6,14 @@ If you have any questions/further issues: You can contact one of us Enpeng Jiang
 # Videos:
 [Step by Step Video Tutorial to CAD a Drivetrain](https://drive.google.com/file/d/15YNamQJwriS7e753XB4Z8V8ZBt-ll3Hs/view?usp=sharing)
 # Table of Contents:
-## Planning
-[Cadding](Resources/Cadding.md)
-## Robot Systems
-[Drivetrains](Drivetrains)
+- ## Planning
+  - [Cadding](Resources/Cadding.md)
+- ## Robot Systems
+  - [Drivetrains](Drivetrains)
+    - [Start Here](Drivetrains/Start_Here.md)
+    - [Building](Drivetrains/Building.md)
+  - Four Bars
+  - Intakes — Robot Systems
+  - Pneumatic Uses
 
-  - [Start Here](Drivetrains/Start_Here.md)
-  - [Building](Drivetrains/Building.md)
-
-Four Bars
-
-Intakes — Robot Systems
-
-Pneumatic Uses
-
-## Troubleshooting
+- ## Troubleshooting
