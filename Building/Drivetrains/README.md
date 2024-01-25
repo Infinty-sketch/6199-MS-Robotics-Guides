@@ -1,7 +1,7 @@
 # Drivetrains: A Must Build - see Troubleshooting for issues 
 > [!IMPORTANT]
 > ### Read [Overview](Overview.md) to understand how a drivetrain works
-## [Step by Step Video Tutorial to CAD a drivetrain](https://drive.google.com/file/d/15YNamQJwriS7e753XB4Z8V8ZBt-ll3Hs/view?usp=sharing)
+### [Step by Step Video Tutorial to CAD a drivetrain](https://drive.google.com/file/d/15YNamQJwriS7e753XB4Z8V8ZBt-ll3Hs/view?usp=sharing)
 ## State your intentions (what do you need to do for this years game)
 Your team should plan what the goal of the robot is and how the design should complement and make the goal possible. Think about supports (which type, layout (top/bottom), parts/components), motors (green/blue), gear ratios (gear down/gear up)
 If you don’t know how to do this. Read the detailed overview of drivetrains. Overview
